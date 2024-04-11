@@ -1,4 +1,4 @@
-package com.headfirst;
+package com.headfirst.rmi;
 
 import java.rmi.*;
 import java.rmi.server.*;
